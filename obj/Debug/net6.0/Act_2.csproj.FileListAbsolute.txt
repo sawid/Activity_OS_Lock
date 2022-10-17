@@ -1,0 +1,15 @@
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\bin\Debug\net6.0\Act_2.exe
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\bin\Debug\net6.0\Act_2.deps.json
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\bin\Debug\net6.0\Act_2.runtimeconfig.json
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\bin\Debug\net6.0\Act_2.dll
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\bin\Debug\net6.0\Act_2.pdb
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\Act_2.csproj.AssemblyReference.cache
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\Act_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\Act_2.AssemblyInfoInputs.cache
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\Act_2.AssemblyInfo.cs
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\Act_2.csproj.CoreCompileInputs.cache
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\Act_2.dll
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\refint\Act_2.dll
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\Act_2.pdb
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\Act_2.genruntimeconfig.cache
+C:\Users\Sawid\Desktop\Asset\C_Sharp_Playground\Act_2\obj\Debug\net6.0\ref\Act_2.dll
